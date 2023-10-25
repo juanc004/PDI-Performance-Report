@@ -19,7 +19,7 @@
 #### New Code
 - Updated the file path to a more specific location, indicating that the code is potentially ready for a production or semi-production environment.
   ```python
-  csv_file_path = '/Users/JuanC/Documents/Developer/Production Scripts/PDI Performance Report/Raw Data/pdit wcn progress check wk2.csv'
+  csv_file_path = '/pdit wcn progress check wk2.csv'
   ```
 
 #### Old Code
@@ -75,7 +75,7 @@
 #### New Code
 - Enhanced the code by updating the save path and adding a confirmation message for better user feedback.
   ```python
-  save_path = '/Users/JuanC/Documents/Developer/Production Scripts/PDI Performance Report/Report CSVs/gpsdsu_performance_wk2_report.csv'
+  save_path = '/performance_wk2_report.csv'
   print(f"GPSDSU Performance Report has been saved to {save_path}")
   ```
 
