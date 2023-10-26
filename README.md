@@ -1,7 +1,7 @@
 
 # PDI-Performance-Report Generator
 
-## Overview
+## Description
 This Python script reads WCN Progress Check data, performs more specific data aggregations, calculates individual and team averages for various WCN events, and generates a detailed PDI Performance Report including new metrics and rankings. The script has been updated to include more robust features, improved data aggregation, and additional metrics.
 
 ## Requirements
